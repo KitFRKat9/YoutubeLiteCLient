@@ -1,4 +1,4 @@
-# YoutubeLiteCLient © 2026 KitKat
+# YoutubeLiteCLient © 2026 KitFRKat9
 # Do not redistribute without credit
 ################################
 #      YoutubeLiteClient       #
