@@ -13,7 +13,8 @@ To correctly install YoutubeLiteClient x86 you have to do this steps:
 2)If you want to keep it portable you can leave it right there.
 3)If you want to install it click Install.bat, it will do all the work. (DON'T RUN IT WITH ADMIN PRIVILEDGES)
 
-
+#BUGS
+There is a bug with the exe built in the 32bit version. Just use the python file from now, i am investigating.
 
 YouTubeLiteClient Lite (64-bit) is a lightweight YouTube client for weak pc's
 
