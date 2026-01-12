@@ -131,7 +131,6 @@ def main():
         else:
             continue
 
-        # Scegli risoluzione
         print("\nResolution:")
         print("1) 360p (recommended)")
         print("2) 480p")
@@ -149,7 +148,7 @@ def main():
         else:
             height = 360
 
-        # Avvia video
+        
         print("\nLoading...")
         vlc, ytdlp = play(url, height)
         print("\nPress ENTER to stop playback and return to home")
@@ -163,3 +162,4 @@ def main():
 # ========================================
 if __name__ == "__main__":
     main()
+
