@@ -18,7 +18,7 @@ There is a bug with the exe built in the 32bit version. Just use the python file
 
 YouTubeLiteClient Lite (64-bit) is a lightweight YouTube client for weak pc's
 
-Features:
+# Features:
 Search videos or paste links directly
 Shows 10(optimized for 32bit) results per page with navigation (n = next, b = back)
 Choose resolution: 360p, 480p, 720p, 1080p
