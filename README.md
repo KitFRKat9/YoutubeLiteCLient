@@ -17,7 +17,10 @@ To correctly install YoutubeLiteClient x86 you have to do this steps:
 There is a bug with the exe built in the 32bit version. Just use the python file from now, i am investigating.
 
 YouTubeLiteClient Lite (64-bit) is a lightweight YouTube client for weak pc's
-
+# 32-bits BUGS&FIXES
+TO use the 32 bits version you need to use the main32.py file (the exe has a bug) and you need to download yt.dlp_x86.exe too.
+You need to put them in the same folder and rename yt-dlp_x86.exe to yt-dlp.exe or it wont work!
+If you have issues tell me in the issues section.
 # Features:
 Search videos or paste links directly
 Shows 10(optimized for 32bit) results per page with navigation (n = next, b = back)
