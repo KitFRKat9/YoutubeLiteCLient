@@ -2,12 +2,12 @@
 # Do not redistribute without credit
 ################################
 #      YoutubeLiteClient       #
-################################
+
 This client is a lightweight youtube client for old pcs.
 
 #########################################
 #		INSTALL			#
-#########################################
+
 To correctly install YoutubeLiteClient x86 you have to do this steps:
 1)Run requirements.bat, you need it to install vlc.(If you already have it don't need this step)
 2)If you want to keep it portable you can leave it right there.
